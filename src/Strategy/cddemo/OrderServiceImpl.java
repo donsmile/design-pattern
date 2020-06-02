@@ -5,7 +5,7 @@ import java.util.Map;
 
 /**
  * @ClassName OrderServiceImpl
- * @Description
+ * @Description 订购供应商的使用样例
  * @Author dd
  * @Date 2020/6/1 10:02
  * @Version 1.0
